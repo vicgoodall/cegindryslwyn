@@ -14,7 +14,7 @@ header {
 }
 
 .nav-item {
-    padding-top: 3%;
+    padding-top: 5%;
 }
 
 
@@ -70,12 +70,10 @@ header {
 }
 
 .booking {
-
     background-color: white;
-    padding: 10%;
-    text-align: center;
-    opacity: 0.8;
+    padding: 10% 5%;
     margin: 5% 15%;
+    opacity: 0.8;
 }
 
 
