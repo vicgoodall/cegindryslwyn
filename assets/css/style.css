@@ -89,6 +89,23 @@ header {
     border: 10px solid white;
 }
 
+.small-photo img {
+    max-width: 25vw;
+    border: 4px sold white;
+    margin-left: 25%;
+}
+
+.gallery {
+    margin: auto;
+    padding-bottom: 2%;
+
+}
+
+.gallery img {
+    max-width: 90vw;
+    border: 10px solid white;
+}
+
 .booking {
     background-color: white;
     padding: 10% 5%;
@@ -104,6 +121,10 @@ header {
     opacity: 0.8;
     margin: 20% 10%;
     
+}
+
+#question {
+    weight: 300;
 }
 
 footer {
