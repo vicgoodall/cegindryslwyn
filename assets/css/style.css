@@ -247,4 +247,15 @@ footer {
         height: 10%;
         margin: 2% 0;
     }
+
+    .gallery {
+        margin: auto 7vw;
+        padding-bottom: 2%;
+    
+    }
+
+    .gallery img {
+        max-width: 60vw;
+        border: 5px solid white;
+    }
 }
