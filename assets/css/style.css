@@ -142,6 +142,11 @@ header {
     
 }
 
+.logo {
+    width: 10%;
+    height: 10%;
+}
+
 #question {
     font-weight: bold;
 }
