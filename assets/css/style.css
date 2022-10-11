@@ -67,9 +67,18 @@ header {
     padding-bottom: 1%;
 }
 
+.photo {
+    margin: 0 25%;
+}
+
+.photo img {
+    max-width: 50vw;
+    border: 10px solid white;
+}
+
 .booking {
     background-color: white;
-    padding: 1% 5%;
+    padding: 10% 5%;
     margin: 10% 15%;
     opacity: 0.8;
 }
@@ -95,19 +104,15 @@ footer {
     padding: 5%;
 }
 
-.opening {
+.footer-headings {
     text-align: left;
-    padding-top: 5%;
+    padding-top: 2%;
+    margin-top: 3%
 }
 
-#footer-info {
-    text-align:right;
-    font-size:small;
-    margin: 0, 15%;
-    
+
+.socials i {
+    padding: 4%;
+    font-size: 250%;
 }
 
-.socials {
-    margin: 2vw;
-    padding: 2%;
-}
