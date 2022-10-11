@@ -31,7 +31,7 @@ header {
     color: teal;
 }
 
-/*--------------------------------------------Heading*/
+/*------------------------------------------------------------------------------Backgrounds */
 
 
 .hero-image {
@@ -42,6 +42,19 @@ header {
     background-size: cover;
     background-attachment: fixed;
 }
+
+.about-background {
+    background: url("../images/pexels-avonne-stalling-4538781.jpg");
+    background-color: teal;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;   
+}
+
+
+
+
 
 .welcome {
     padding-top: 78vh;
@@ -112,5 +125,6 @@ footer {
 .socials i {
     padding: 4%;
     font-size: 250%;
+    color: bisque;
 }
 
