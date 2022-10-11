@@ -52,6 +52,13 @@ header {
     background-attachment: fixed;   
 }
 
+.booking-background {
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;    
+}
 
 
 
@@ -113,6 +120,19 @@ header {
     opacity: 0.8;
 }
 
+.about-desc {
+    background-color: white;
+    padding: 10% 5%;
+    margin: 10% 15%;
+}
+
+.faq {
+    background-color: white;
+    padding: 10% 5%;
+    margin: 10% 15%;  
+
+}
+
 
 .quotes {
     background-color: white;
@@ -124,7 +144,29 @@ header {
 }
 
 #question {
-    weight: 300;
+    font-weight: bold;
+}
+
+#booking-header {
+    margin: 5% 0;
+}
+
+.radio-control {
+    width: 10%;
+    height: 10%;
+}
+
+#form-section {
+    margin: 4% 0;
+}
+
+.form-control {
+    margin: 2% 0;
+    width: 80vw;
+}
+
+#book-btn {
+    margin: 3%;
 }
 
 footer {
@@ -148,4 +190,5 @@ footer {
     font-size: 250%;
     color: bisque;
 }
+
 
