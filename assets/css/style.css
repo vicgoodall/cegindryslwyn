@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans");
 
 
-/*--------------------------------------------Navigation */
+/*--------------------------------------------------------------------------------Navigation */
 
 header {
     margin: 0;
@@ -92,7 +92,7 @@ header {
 
 .photo img {
     max-width: 50vw;
-    border: 10px solid white;
+    border: 5px solid white;
 }
 
 .small-photo img {
@@ -196,7 +196,7 @@ footer {
     color: bisque;
 }
 
-@media(min-width: 992px) {
+@media(min-width: 992px) and (max-width: 2559px) {
     
     header {
         margin: 0;
@@ -217,20 +217,20 @@ footer {
     }
 
     .photo {
-        margin: 0 3%;
+        margin: 2% 10%;
     }
     
     .photo img {
-        max-width: 30vw;
+        max-width: 25vw;
         border: 5px solid white;
     }
 
     .booking {
         background-color: white;
-        padding: 8%;
-        margin: 2%;
+        padding: 4%;
+        margin: 2% 10%;
         opacity: 0.8;
-        max-width: 25vw;
+        min-width: 30vw;
     }
 
     .quotes {
@@ -258,4 +258,50 @@ footer {
         max-width: 60vw;
         border: 5px solid white;
     }
+}
+
+@media (min-width: 2560px) {
+
+    header {
+        margin: 0;
+        background-color: rgb(9, 21, 55);
+        height: 10vh;
+    }
+
+    .nav-link {
+        font-family: "Open Sans", sans-serif;
+        font-weight: 100;
+        font-size: 1.7vw;
+        color: lightyellow; 
+        margin-right: 2vw;
+    }
+
+    .photo {
+        margin: 2% 8%; 
+    }
+    
+    .photo img {
+        max-width: 22vw;
+        border: 5px solid white;
+    }
+
+    .booking {
+        background-color: white;
+        padding: 4%;
+        margin: 2% 8%;
+        opacity: 0.8;
+        min-width: 25vw;
+        font-size: 30px;
+        
+    }
+
+    .quotes {
+        font-size: 50px;
+        background-color: white;
+        padding: 5%;
+        text-align: center;
+        opacity: 0.8;
+        margin: 10% 10%;   
+    }
+
 }
