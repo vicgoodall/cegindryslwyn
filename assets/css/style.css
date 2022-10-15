@@ -124,8 +124,8 @@ header {
 }
 
 .logo {
-    width: 10%;
-    height: 10%;
+    width: 20%;
+    height: 20%;
 }
 
 /*------------------------------------------------------------------------------ Text formatting */
@@ -135,6 +135,32 @@ header {
     padding: 10% 5%;
     margin: 10% 15%;
     opacity: 0.8;
+}
+
+.mini-contents {
+    margin: 10%;
+}
+
+.about-contents {
+    list-style-type: none;
+    margin-left: 25%;
+}
+
+.mini-nav {
+    font-family: "Open Sans", sans-serif;
+    font-size: 24px;
+    color: rgb(9, 21, 55);
+    font-weight: bold;
+    padding-top: 3%;
+}
+
+.mini-nav a {
+    color: rgb(9, 21, 55);
+}
+
+.mini-nav a:hover {
+    color: teal;
+    text-decoration: none;
 }
 
 .about-desc {
@@ -242,6 +268,12 @@ footer {
         padding-top: 65vh;
     }
 
+    .english-welcome {
+        color: whitesmoke;
+        font-weight: 200;
+        font-size: 36px;
+    }
+
     .photo {
         margin: 2% 10%;
     }
@@ -295,7 +327,7 @@ footer {
     }
 
     .welcome {
-        padding-top: 60vh;
+        padding-top: 50vh;
     }
 
     .nav-link {
@@ -332,6 +364,19 @@ footer {
         text-align: center;
         opacity: 0.8;
         margin: 10% 10%;   
+    }
+
+    .about-contents {
+        list-style-type: none;
+        margin-left: 50%;
+    }
+    
+    .mini-nav {
+        font-family: "Open Sans", sans-serif;
+        font-size: 40px;
+        color: rgb(9, 21, 55);
+        font-weight: bold;
+        padding-top: 3%;
     }
 
     .about-desc {
