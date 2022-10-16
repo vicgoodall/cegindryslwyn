@@ -32,9 +32,9 @@ These objectives were then broken down into User Stories, alongisde Stories impo
 
 ### Wireframes
 
-| Page.    | Mobile                                          | Tablet                                                     |  Desktop                                                                               |
+| Page.    | Mobile                                                                                                        | Tablet                                                     |  Desktop                                                                               |
 | ---------|:-----------------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
-| Index| ![alt text](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/About-page-phone.png "Index Phone wireframe")|
+| Index | <img src="../assets/images/about-page-phone.png"> |  
 
 ### Look and Feel
 
