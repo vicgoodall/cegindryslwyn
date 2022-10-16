@@ -119,6 +119,7 @@ Text boxes are thus kept with a minimalist style that makes them both easily leg
 * Google Fonts: Provided the main font used for this project, Open Sans, via the style.css file.
 * Font Awesome: Provided the social media icons located in the footer.
 * Bootstrap: Provided the grid system used throughout the site to create a responsive design. Bootstrap was also particularly useful to build the carousel and the booking form.
+* TinyPNG was used to reduce image size.
 * Gitpod: For writing code, committing anf pushing to GitHub.
 * GitHub: Storage of the prokect once pushed.
 * Chrome DevTools: The primary resource for manual testing, particularly in testig the responsiveness of the design.
@@ -195,4 +196,16 @@ The following shows the results of final testing:
 ### Code Validation
 
 * W3C CSS Validator identified a repeated typo in a padding where both % and vw were used. The latter was removed.
-* W3C HTML Validator picked up on a href erroneously placed within a Bootstrap button. An anchor was placed within the button to resolve this. 
+* W3C HTML Validator picked up on a href erroneously placed within a Bootstrap button. An anchor was placed with role=button to resolve this. 
+
+### Browser Testing 
+
+* The project was tested on Safari and Chrome with no functionality issues identified.
+* Performance issues have been identified using Lighthouse in Chrome. This mainly seems to be caused by the large quantity of images and logos in use throughout the site, and has beem=n mitigated somewhat by reducing image size with TinyPNG. However, this would be a future improvement, and something to consider going forward in future designs.
+
+## Finished Product
+
+
+
+
+
