@@ -30,6 +30,32 @@ header {
     color: teal;
 }
 
+.mini-contents {
+    margin: 0;
+}
+
+.about-contents {
+    list-style-type: none;
+    margin-left: 25%;
+}
+
+.mini-nav {
+    font-family: "Open Sans", sans-serif;
+    font-size: 24px;
+    color: rgb(9, 21, 55);
+    font-weight: bold;
+    padding-top: 3%;
+}
+
+.mini-nav a {
+    color: rgb(9, 21, 55);
+}
+
+.mini-nav a:hover {
+    color: teal;
+    text-decoration: none;
+}
+
 /*------------------------------------------------------------------------------Backgrounds */
 
 
@@ -92,6 +118,10 @@ header {
     margin-left: 2%;
 }
 
+#booking-header {
+    margin: 5% 0;
+}
+
 /*------------------------------------------------------------------------------  Images */
 
 .photo {
@@ -137,32 +167,6 @@ header {
     opacity: 0.8;
 }
 
-.mini-contents {
-    margin: 10%;
-}
-
-.about-contents {
-    list-style-type: none;
-    margin-left: 25%;
-}
-
-.mini-nav {
-    font-family: "Open Sans", sans-serif;
-    font-size: 24px;
-    color: rgb(9, 21, 55);
-    font-weight: bold;
-    padding-top: 3%;
-}
-
-.mini-nav a {
-    color: rgb(9, 21, 55);
-}
-
-.mini-nav a:hover {
-    color: teal;
-    text-decoration: none;
-}
-
 .about-desc {
     background-color: white;
     padding: 0;
@@ -194,14 +198,7 @@ header {
     padding: 3%;
 }
 
-
-#question {
-    font-weight: bold;
-}
-
-#booking-header {
-    margin: 5% 0;
-}
+/*------------------------------------------------------------------------------ Form formatting */
 
 .radio-control {
     width: 10%;

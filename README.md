@@ -4,7 +4,7 @@ Cegin Dryslwyn is a small independent restaurant at the foot of Dryslwyn Castle 
 
 The website enables customers to make bookings, obtain contact details and find out more about the restaurant’s ethos. The target audience are considered to be time-poor, mainly browsing on their phones, and might want to make a booking quickly during the day while they are out of the house. Thus the site is designed with mobile users as its priority.
 
-The deployed website can be found HERE.
+The deployed website can be found [HERE].
 
 ## Contents
 
@@ -115,16 +115,16 @@ Text boxes are thus kept with a minimalist style that makes them both easily leg
 * CSS3
 
 ### Frameworks, Libraries and Programs used
-* Balsamiq: Used as explored above to draw up the initial wireframes.
-* Google Fonts: Provided the main font used for this project, Open Sans, via the style.css file.
-* Font Awesome: Provided the social media icons located in the footer.
-* Bootstrap: Provided the grid system used throughout the site to create a responsive design. Bootstrap was also particularly useful to build the carousel and the booking form.
-* TinyPNG was used to reduce image size.
-* Gitpod: For writing code, committing anf pushing to GitHub.
-* GitHub: Storage of the prokect once pushed.
-* Chrome DevTools: The primary resource for manual testing, particularly in testig the responsiveness of the design.
-* W3C Markup Validator: Used to validate the HTML.
-* W3C CSS Validator: Used to validate the CSS.
+* [Balsamiq](https://balsamiq.cloud/): Used as explored above to draw up the initial wireframes.
+* [Google Fonts](https://fonts.google.com/): Provided the main font used for this project, Open Sans, via the style.css file.
+* [Font Awesome](https://fontawesome.com/): Provided the social media icons located in the footer.
+* [Bootstrap](https://getbootstrap.com/): Provided the grid system used throughout the site to create a responsive design. Bootstrap was also particularly useful to build the carousel and the booking form.
+* [TinyPNG](https://tinypng.com/) was used to reduce image size.
+* [Gitpod](https://gitpod.io/): For writing code, committing anf pushing to GitHub.
+* [GitHub](https://github.com/): Storage of the prokect once pushed.
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/): The primary resource for manual testing, particularly in testig the responsiveness of the design.
+* [W3C Markup Validator](https://validator.w3.org/): Used to validate the HTML.
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/): Used to validate the CSS.
 
 ## Testing
 
@@ -215,6 +215,42 @@ The following shows the results of final testing:
 * ![008](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/final%20product/008.png)
 * ![009](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/final%20product/009.png)
 * ![010](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/final%20product/010.png)
+
+## Deployment
+
+Deployed via process:
+* Login to GitHub and locate the GitHub Repository
+* Select 'Settings'
+* Within Settings, select 'Pages'
+* Under Source, select the dropdown 'None' and then select 'Master Branch'
+* A link is then provided to the website
+
+## Credits
+
+### Content
+* Created by the developer
+
+### Media
+#### [Pexels](https://www.pexels.com/)
+* Index background image: Valeria Boltneva 
+* Dining room: Maria Orlova
+* About background image: Avonne Stalling
+* Castle arch: Tobias Bjorkli
+* Chef: "cottonbro"
+* Meat on bone: Pascal Claivaz
+* Red meat: "cottonbro"
+* Seafood: Dana Tentis
+
+#### Icons
+* [WalesOnline](https://www.walesonline.co.uk/)
+* [BBC Good Food](https://www.bbcgoodfood.com/)
+* [The Guardian](https://www.theguardian.com/uk)
+
+#### Code
+* [Bootstrap](https://getbootstrap.com/) guide used to learn new features such as the carousel and a form structure. This has been referenced in comments within HTML also.
+* [W3Schools](https://www.w3schools.com/) was referenced as a refresher for formatting and aligning of elements. 
+
+
 
 
 
