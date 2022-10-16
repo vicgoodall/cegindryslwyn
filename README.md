@@ -35,6 +35,8 @@ These objectives were then broken down into User Stories, alongisde Stories impo
 | Page.    | Mobile                                                                                                        | Tablet                                                     |  Desktop                                                                               |
 | ---------|:-----------------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
 | Index | ![index phone wireframe](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/Landing%20page%20phone.png) | ![index tablet wireframe](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/Landing%20page%20tablet.png) | ![index desktop wireframe](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/Landing%20page%20laptop.png) |
+| About  | ![about phone wireframe](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/About-page-phone.png) | ![about tablet wireframe](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/About%20page%20tablet.png) | ![about desktop wireframe](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/About%20page%20laptop.png) |
+| Booking | ![booking phone wireframe](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/Booking%20phone.png) | ![booking tablet wireframe](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/Booking%20tablet.png) | ![booking desktop wireframe](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/Booking%20laptop.png) |
 
 ### Look and Feel
 
