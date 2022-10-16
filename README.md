@@ -34,7 +34,7 @@ These objectives were then broken down into User Stories, alongisde Stories impo
 
 | Page.    | Mobile                                                                                                        | Tablet                                                     |  Desktop                                                                               |
 | ---------|:-----------------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
-| Index | <img src="../assets/images/about-page-phone.png"> |  
+| Index | ![index phone wireframe](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/Landing%20page%20phone.png) | ![index tablet wireframe](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/Landing%20page%20tablet.png) | ![index desktop wireframe](https://github.com/vicgoodall/cegindryslwyn/blob/main/assets/images/Landing%20page%20laptop.png) |
 
 ### Look and Feel
 
